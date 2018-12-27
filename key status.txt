@@ -1,0 +1,43 @@
+status details
+
+Key Status Results
+
+   Have a valid key: Yes
+
+
+   Have computer key: No
+     Reason for no computer key is: Key file not found on computer PUNHWD12672 (w0121489c9c5b3d5c03). Could not find any of:
+ C:\Program Files (x86)\Ab Initio\Ab Initio GDE 3.3.5.1\w0121489c9c5b3d5c03.key.txt
+ C:\Program Files (x86)\Ab Initio\Ab Initio GDE 3.3.5.1\key.txt
+ C:\ProgramData\Ab Initio\Key\w0121489c9c5b3d5c03.key.txt
+ C:\ProgramData\Ab Initio\Key\key.txt
+ \var\abinitio\data\abkc\data\kdkeystore.xml
+
+
+You can request a key file from a designated Ab Initio contact in your
+company. (If you don't know who that is, see your system administrator.)
+Designated contacts can call 1-781-301-2588 or email key@abinitio.com.
+.
+
+   Have user key: Yes
+   Got the token: Yes
+   Key Servers configured: Yes
+   Contacted a Key Server: Yes
+   Key Server Summary:
+     Server: abks://sikey.abinitio.com:50003, Last contacted: 2018-12-27T09:29
+   Key Summary:
+
+     Key type: User
+     Product: Developer Bundle
+     Offline Grace Ends: 2019-01-05T09:23
+     Key Expires: 2019-02-28
+     Customer: Capgemini India LTD
+     Source: abks://sikey.abinitio.com:50003
+
+
+
+------------------------------------------------------------------------------------
+
+
+
+
